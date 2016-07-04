@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreeBlue</string>
+
+    <!--find_activity-->
+    <string name="find_devices">搜索设备</string>
+    <string name="unBound_devices">未匹配设备</string>
+    <string name="bounded_devices">已匹配设备</string>
+    <string name="no_supper_devices">不支持蓝牙</string>
+</resources>
